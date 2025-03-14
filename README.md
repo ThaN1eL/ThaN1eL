@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan University. Currently looking for career 
+I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan University. Nice To Meet You~~
 
 ## IDE:
 ![Text Editor](https://img.shields.io/badge/-Text_Editor-gray?style=flat)
