@@ -20,7 +20,6 @@ I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan Univers
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AlpineJs](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Continuously Improving:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
