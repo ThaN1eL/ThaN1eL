@@ -1,11 +1,6 @@
-# Hi Everyone 👋, I'm [Your Name]!
+# Hi Everyone 👋
 
-I am a [Your Title] majoring in [Your Field], [Your University]. Currently looking for career 
-opportunities in [Your Interests]. During college I [Your Experience]. I was 
-able to do this by [Your Achievements] with a GPA of [Your GPA]. I also had 
-an internship experience at [Company] as a [Role] where I was responsible for [Responsibilities]. 
-I am looking for opportunities to contribute further in the [Your Target Industry] 
-to gain knowledge and interests that I have. Connect on LinkedIn or contact me at [your.email@example.com].
+I am a Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan University. Currently looking for career 
 
 ## IDE and Text Editor Tools:
 ![Text Editor](https://img.shields.io/badge/-Text_Editor-gray?style=flat)
