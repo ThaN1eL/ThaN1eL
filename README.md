@@ -3,7 +3,6 @@
 I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan University. Nice To Meet You~~
 
 ## IDE:
-![Text Editor](https://img.shields.io/badge/-Text_Editor-gray?style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
