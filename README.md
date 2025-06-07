@@ -28,7 +28,7 @@ I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan Univers
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Feel free to contact me 😋😎
+## Feel free to contact me 😋😎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thaniel23-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thaniel23)
 [![Email](https://img.shields.io/badge/Email-yuihara23@gmail.com-orange?style=flat-square&logo=gmail)](mailto:yuihara23@gmail.com)
 
